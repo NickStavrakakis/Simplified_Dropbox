@@ -1,5 +1,5 @@
-# !/bin/bash
-
+#!/bin/bash
+# client_id, s_bytes, r_bytes, s_files, r_files, deleted_flag
 total_clients=0
 total_s_bytes=0
 total_r_bytes=0
